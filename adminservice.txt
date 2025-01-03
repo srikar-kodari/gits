@@ -1,2 +1,4 @@
 admin can add or delete users
 change the roles
+adding database
+modifying connection
