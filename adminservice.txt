@@ -2,3 +2,6 @@ admin can add or delete users
 change the roles
 adding database
 modifying connection
+
+testing the lite version
+you can add lite features
