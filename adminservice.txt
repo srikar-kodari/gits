@@ -1,7 +1,7 @@
 admin can add or delete users
 change the roles
 adding database
-modifying connection
+modifying oracle connection
 
 change1 - testing via remote
 change2
